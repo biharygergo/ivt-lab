@@ -4,6 +4,7 @@ import static hu.bme.mit.spaceship.FiringMode.SINGLE;
 
 /**
 * A simple spaceship with two proton torpedos and four lasers
+ *
 */
 public class GT4500 implements SpaceShip {
 
@@ -19,7 +20,6 @@ public class GT4500 implements SpaceShip {
 
   @Override
   public boolean fireLasers(FiringMode firingMode) {
-    // TODO not implemented yet
     return false;
   }
 

@@ -22,9 +22,12 @@
       <file leaf-file-name="GT4500.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hu/bme/mit/spaceship/GT4500.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
-              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="135">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -456,9 +459,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hu/bme/mit/spaceship/GT4500.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
